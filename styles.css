@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+    }
+
+h1{
+  color: #FF0000
+}
+
+h3{
+  color: #FF0000
+}
+    hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 10px;
+      width: 5%;
+
+    }
+
+    img{
+      height: 140px;
+    }
